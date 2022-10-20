@@ -6,6 +6,6 @@
 <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
 </p>
 
-Repositório destinado a compartilhar o desenvolvimento em meus estudos na linguagem JAVA, utilizando a IDE IntelliJ usando o percurso de ensino da plataforma UDEMY curso da CODER, aqui colocarei todos os exercícios e avanços durante o curso, até sua finalização.
+Repositório destinado a compartilhar o desenvolvimento em meus estudos na linguagem **JAVA**, utilizando a IDE **IntelliJ** usando o percurso de ensino da plataforma **UDEMY** curso da **CODER**, aqui colocarei todos os exercícios e avanços durante o curso, até sua finalização.
 
 
