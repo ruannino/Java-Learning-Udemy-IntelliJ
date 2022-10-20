@@ -9,3 +9,7 @@
 Repositório destinado a compartilhar o desenvolvimento em meus estudos na linguagem **JAVA**, utilizando a IDE **IntelliJ** usando o percurso de ensino da plataforma **UDEMY** curso da **CODER**, aqui colocarei todos os exercícios e avanços durante o curso, até sua finalização.
 
 
+# Autor
+
+| [<img src="https://avatars.githubusercontent.com/u/105193525?v=4" width=115><br><sub>Ruannino Farias</sub>](https://github.com/ruannino) 
+| :---: |
