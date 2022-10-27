@@ -1,9 +1,5 @@
 package fundamentos;
 
-import java.net.StandardSocketOptions;
-
-import static java.util.Collections.synchronizedSortedMap;
-
 public class TiposPrimitivos {
 
     public static void main(String[] args) {
