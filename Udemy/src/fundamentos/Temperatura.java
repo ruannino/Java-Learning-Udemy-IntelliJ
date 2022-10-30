@@ -15,7 +15,7 @@ public class Temperatura {
         final double AJUSTE = 32;
         double celcius = (fahrenheit - AJUSTE) * FATOR;
 
-        System.out.println("O resultado é " + celcius + "ºC.");
+        System.out.printf("O resultado é %.2f ºC.", celcius);
 
         teclado.close();
     }
